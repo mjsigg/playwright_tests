@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "csv-writer": "^1.6.0",
+    "playwright": "^1.32.2",
+    "puppeteer": "^19.8.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
